@@ -43,4 +43,4 @@ rotas/livro.js          # Rotas da API
 servicos/livro.js       # Operações sobre os dados
 ```
 
-Projeto licenciado sob ISC.
+
